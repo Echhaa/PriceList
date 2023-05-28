@@ -1,0 +1,37 @@
+[
+{
+"nama":"1.200 Cash Point Blank",
+"harga": 9200,
+"id":"VZP10"
+},
+{
+"nama":"2.400 Cash Point Blank",
+"harga": 8350,
+"id":"VZP20"
+},
+{
+"nama":"6000 Cash Point Blank",
+"harga": 45300,
+"id":"VZP50"
+},
+{
+"nama":"1200 Cash Point Blank",
+"harga": 90150,
+"id":"VZP100"
+},
+{
+"nama":"24.000 Cash Point Blank",
+"harga": ,
+"id":"VZP200"
+},
+{
+"nama":"36.000 Cash Point Blank",
+"harga": 268700,
+"id":"VZP300"
+},
+{
+"nama":"60.000 Cash Point Blank",
+"harga": 448000,
+"id":"VZP500"
+}
+]
